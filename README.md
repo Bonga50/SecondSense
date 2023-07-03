@@ -11,7 +11,10 @@ x86_64 or ARM-based CPU architecture.
 1280 x 800 minimum screen resolution.
 
 **Software Requierments**
-
-
 Android studio 2022 or later and a mobile phone.
 From Android studio open reSecondSense_V01/ap.
+
+**Possible User details**
+Email : User1@ie.com
+Password : Password1
+
