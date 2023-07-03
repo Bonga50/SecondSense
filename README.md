@@ -11,12 +11,12 @@ The timesheet management app allows users to log in with a username and password
 
 **Hard ware**
 
-64-bit Windows, macOS, Linux, or ChromeOS operating system.
-x86_64 or ARM-based CPU architecture.
-2nd generation Intel Core or newer, or AMD CPU with support for a Windows Hypervisor.
-8 GB RAM or more.
-8 GB of available disk space minimum (IDE + Android SDK + Android Emulator).
-1280 x 800 minimum screen resolution.
+64-bit Windows, macOS, Linux, or ChromeOS operating system.  
+x86_64 or ARM-based CPU architecture.  
+2nd generation Intel Core or newer, or AMD CPU with support for a Windows Hypervisor.  
+8 GB RAM or more.  
+8 GB of available disk space minimum (IDE + Android SDK + Android Emulator).  
+1280 x 800 minimum screen resolution.  
 
 **Software Requierments**
 
