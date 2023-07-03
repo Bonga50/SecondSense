@@ -2,7 +2,7 @@
 
 **Possible Login User details**
 
-Email : User1@ie.com
+Email : User1@ie.com  
 Password : Password1
 
 **Description**
